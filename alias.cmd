@@ -23,8 +23,6 @@ doskey kd=kubectl delete $*
 @echo off
 doskey kdp=kubectl delete pod $*
 @echo off
-doskey kdd=kubectl delete deployment $*
-@echo off
 doskey kdcj=kubectl delete cronjob $*
 @echo off
 doskey kd=kubectl delete $*
